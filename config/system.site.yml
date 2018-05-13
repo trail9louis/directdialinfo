@@ -1,0 +1,14 @@
+uuid: 28de5b86-0322-42db-8833-d5fb3e137a82
+name: directdialinfo
+mail: louis@trail9.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
